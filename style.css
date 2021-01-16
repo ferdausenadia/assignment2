@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+#moon-text-color{
+    color:#76c27e;
+}
+h1{
+    color: #363958;
+    font-size: 70px;
+}
+.shadow{
+    margin: 5px;
+    box-shadow: darkslategrey;
+}
+
+.buy-button{
+    background-color: #2a1e59;
+    color: white;
+}
+
+footer{
+    background-color: rgb(27, 19, 19);
+    color: rgb(226, 39, 39);
+    border: blue solid 5px;
+    border-radius: 5px;
+}
